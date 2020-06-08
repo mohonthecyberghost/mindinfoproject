@@ -1,3 +1,4 @@
+//Modified in Milestone 1 Branch
 /**
  * AdminLTE Demo Menu
  * ------------------
