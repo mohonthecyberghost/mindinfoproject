@@ -1,0 +1,13 @@
+Tasks Completed : 15-05-2020
+-------------------------------------
+1. Fix Host Apache, Mysql, PhpmyAdmin
+2. Date Field Format to show in details like - Fri 15 May 2020
+3. Custom_Label just renamed to frontend datatable to SKU
+4. Removed Extra unusual character from Currency Field/ Awaiting Despatch
+5. Fixed Transaction_ID Field value
+6. Fixed Variation_Details short character issue
+7. Fixed Item_Number Field Value
+8. AllStock SmallSize column issue fixed
+9. SearchPane Header Fixed (Size/Design)
+10. Awaiting Despatch Page - 3 Headers Fixed Text
+11. Awaiting Despatch Page - 3 Headers Action

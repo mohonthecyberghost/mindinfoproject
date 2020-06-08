@@ -1,0 +1,56 @@
+1) create a new user called
+
+User: Paul
+password: UFO123
+
+and give him access to just
+
+http://51.195.137.188/productimages/awaitingdespatch.php
+http://51.195.137.188/productimages/importawaitingcsv.php
+http://51.195.137.188/productimages/clickdropimport.php
+
+2) also i need to be able to download the CSV from this table for all users, change it to show 100 records by default so it exports all.
+
+http://51.195.137.188/productimages/clickdropimport.php
+
+3) Change "Click and Drop Import" to "Create Click and Drop Import CSV"
+on this page: http://51.195.137.188/productimages/clickdropimport.php
+
+4) http://51.195.137.188/productimages/awaitingdespatch.php
+Remove the Blue "Due to go today" statistic label
+
+5) Remove Variation Details Search Pane from this page
+http://51.195.137.188/productimages/awaitingdespatch.php
+------------- DONE
+
+6) http://51.195.137.188/productimages/awaitingdespatch.php
+
+Show only these columns in the table:
+Order_Number
+Post_by_date
+SKU
+Image1
+Setup
+
+Rename the page H1 text from "Orders Awaiting Despatch" to "Orders Awaiting Despatch Summary"
+
+7) Clicking any row should activate a Popup Modal that displays all the original column values in full.
+
+From our feedback this will help the person making the product to focus.
+
+8) Add a button on this new popup modal that says:
+Add order to Click and Drop Import CSV.
+
+When this is clicked it should
+a. check the required fields are complete. (Location Bin, Setup, Quantity, Quality Sticker Applied, Custom_Name, Window Reversed, Size Check, Colour Check, Design Match) these the quality check fields.
+b. if these fields on the modal can be positioned so they are in a clearly defined area for the user so they are easy to input for them.
+Large fields, big buttons, clean clear interface design for the modal popup as each order will be posted from this and i don't want any mistakes at this point.
+
+9)
+Test this page is working i have attached a sample CSV to import, it didn't work for me. http://51.195.137.188/productimages/importawaitingcsv.php
+
+
+10) task 10, I need CSV export buttons on these tables so i can check them.
+
+
+these should be good instructions for tonights work. I'm checking the data in ALLStock and creating tomorrows work list.

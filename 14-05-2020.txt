@@ -1,0 +1,11 @@
+Tasks Completed : 14-05-2020
+-------------------------------------
+1. Import CSV Script (Big Task - Took Almost 6 hours to complete) 
+	a) Fix Date Importing
+	b) Image1 field showing etc.
+
+2. All Stock Data Table Show
+
+3. Searchpane on All Stock
+
+4. Searchpane on Awaiting Despatch Records

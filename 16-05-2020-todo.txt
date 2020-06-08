@@ -1,0 +1,39 @@
+Tasks Todo: 15-05-2020
+-------------------------------------
+1. On Change/Edit Catalog image ->update to AllStock Table
+2. Add three new columns to the despatch table
+
+Size Check	Text
+Colour Check	Text
+Design Match	Checkbox
+
+Also I need the order within the datable to slightly change
+
+From this column Quantity onwards:
+
+Quantity
+Size/Design	
+Colour
+Quality Sticker Applied
+Custom Name
+Window Reversed
+Size Check
+Colour Check
+Design Match
+Variation_details
+Title
+Etc………..
+
+---------------- Done
+
+
+3. Add a new column to the AwaitingDespatch data-table view.
+
+called Tag
+
+this should lookup the field Tag in the ALLSTOCK Table.
+
+Use the SKU/Custom label from awaiting despatch table to match it up.
+
+4. MPN in filter should be TAG
+
